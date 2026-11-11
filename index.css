@@ -147,7 +147,7 @@ h1, h2, h3 {
 .cards {
     display: flex;
     flex-wrap: wrap;
-    gap: 24xp;
+    gap: 24px;
 }
 .card {
     background-color: var(--branco);
